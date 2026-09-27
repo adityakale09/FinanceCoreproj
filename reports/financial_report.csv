@@ -1,0 +1,19 @@
+FINCORE FINANCIAL REPORT
+
+total_income: 80000.0
+total_expenses: 19000.0
+net_change: 61000.0
+average_transaction: 16500.0
+largest_transaction: 50000.0
+transaction_count: 6
+
+CATEGORY EXPENSES
+category  amount
+   Bills    8000
+  Travel    5000
+    Food    3500
+Supplies    2500
+
+MONTHLY SUMMARY
+  month  income  expenses  net_change
+2026-09   80000     19000       61000

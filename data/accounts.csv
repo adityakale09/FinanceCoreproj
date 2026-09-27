@@ -1,0 +1,3 @@
+account_number,customer_id,owner_name,account_type,balance
+FC00100001,1,Aarav Sharma,Savings,48500.00
+FC00200002,2,Priya Patil,Current,27500.00
